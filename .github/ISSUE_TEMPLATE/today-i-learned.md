@@ -1,5 +1,5 @@
 ---
-name: Today I Learn
+name: Today I Learned
 about: 記錄今天獲得的新知
 title: ''
 labels: ''
